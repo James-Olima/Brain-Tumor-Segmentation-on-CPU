@@ -21,7 +21,7 @@ st.set_page_config(page_title="Glioma Segmentation", layout="wide")
 # Initialize scaler
 scaler = MinMaxScaler()
 # Constants
-MODEL_URL = "https://drive.google.com/uc?id=15DvYjyBHo-OgI-oVPrruocNr_WUauQEk"
+MODEL_URL = "https://drive.google.com/file/d/16LAJ8UA2sp1u5hRQJNqBDjO52sgsKSYm/view?usp=sharing"
 MODEL_DIR = "saved_model"
 MODEL_PATH = os.path.join(MODEL_DIR, "3D_unet_100_epochs_2_batch_patch_training.keras")
 
