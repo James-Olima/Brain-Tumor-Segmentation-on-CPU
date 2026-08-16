@@ -1,9 +1,8 @@
 streamlit
-nibabel
 numpy
-scikit-learn
+nibabel
 tensorflow
+scikit-learn
 matplotlib
-gdown
 scipy
-plotly
+gdown
